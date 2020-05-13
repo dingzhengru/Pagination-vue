@@ -4,7 +4,7 @@
 
 
 ## 注意
-* 主要差別是: 給 Array 而不是 Page Count
+* 跟其他分頁物件，主要差別是: 給 Array 而不是 Page Count
 
 ## Props
 | 屬性名     | 型態    | 說明              | 預設  |
