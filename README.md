@@ -1,8 +1,10 @@
 # Pagination-vue
-因專案需要而寫的分頁物件，使用 vue 寫的 Component
+因其他專案需要而寫的分頁物件，使用 vue 寫的 Component  
+雖然原專案 css 是套 Bootstrap，但此專案主要是紀錄 JS 邏輯
 
-## 給 Array 而不是 Page Count
-* 主要差別是，
+
+## 注意
+* 主要差別是: 給 Array 而不是 Page Count
 
 ## Props
 | 屬性名     | 型態    | 說明              | 預設  |
